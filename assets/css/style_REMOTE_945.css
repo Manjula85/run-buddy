@@ -14,7 +14,7 @@
       --secondary-color: #024e76;
       --tertiary-color: #39a6b2;
   }
- 
+  
   
   /* HEADER / NAV BAR STYLES START */
   
@@ -39,17 +39,13 @@
     font-weight: bold;
     margin: 0;
     font-size: 36px;
-
     color: var(--primary-color);
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-
   }
   
   header a {
     text-decoration: none;
-
     color: var(--primary-color);
-
   }
   
   header nav {
@@ -70,14 +66,12 @@
     font-size: 1.55vw;
   }
 
-
   header nav ul li a:hover{
       background-color: var(--primary-color);
       color: var(--secondary-color);
       border-radius: 15px;
       text-shadow: none;
   }
->>>>>>> feature/aethetics
   
   /* HEADER / NAVBAR STYLES END */
   
